@@ -1,0 +1,12 @@
+{
+  "name": "cryptodesk",
+  "version": "1.0.0",
+  "description": "This is a command line interface to get the details of the price of different cyrpto currencies.",
+  "main": "index.js",
+  "bin": "./bin/cryptodesk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul Mishra",
+  "license": "MIT"
+}
