@@ -7,6 +7,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "cryptodesk",
+    "cryptocurrency",
+    "blockchain",
+    "ethereum",
+    "cryptocoin"
+  ],
   "author": "Rahul Mishra",
   "license": "MIT",
   "dependencies": {
