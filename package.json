@@ -22,5 +22,13 @@
     "commander": "^6.1.0",
     "configstore": "^5.0.1",
     "inquirer": "^7.3.3"
-  }
+  },
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/rahulMishra05/cryptodesk-cli.git"
+  },
+  "bugs":{
+    "url": "https://github.com/rahulMishra05/cryptodesk-cli/issues"
+  },
+  "homepage": "https://github.com/rahulMishra05/cryptodesk-cli/blob/main/README.md"
 }
